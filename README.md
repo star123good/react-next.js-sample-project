@@ -2,5 +2,5 @@
 
 <h2>routes</h2>
 
-    /       pages/index.js
-    /show   pages/show.js
+    /               pages/index.js
+    /products/show  pages/products/show.js
